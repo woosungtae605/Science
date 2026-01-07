@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "name": "WSTInput",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "c030ecc3-bbba-4572-bb14-fb8521ced7ad",
+            "actions": [
+                {
+                    "name": "Aim",
+                    "type": "Value",
+                    "id": "c8c29318-80d2-4d68-a2ef-7ea95b50122d",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "CanRotate",
+                    "type": "Button",
+                    "id": "90272882-3962-48fd-ba5f-35d06c35d7e3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6256d3c9-932b-4b19-b867-118ba3a1d1b2",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Aim",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b0ed03fa-e771-49bf-b03d-da6e46e8edb2",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CanRotate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

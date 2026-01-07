@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77dba6f781577c149bf691fb450358fe, type: 3}
+  m_Name: UpgradeMagnet
+  m_EditorClassIdentifier: 
+  goodsSprite: {fileID: -8335907288894726097, guid: 364e44200da9c9548aab42e4dbc74cdd, type: 3}
+  description: "\uC790\uC11D \uC138\uAE30\uB97C \uC99D\uAC00\uC2DC\uD0A8\uB2E4."
+  upgradePrice: 0a0000003c0000002c01000020030000d0070000
+  upgradeCount: 0

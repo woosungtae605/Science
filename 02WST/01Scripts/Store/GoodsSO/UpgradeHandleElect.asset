@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77dba6f781577c149bf691fb450358fe, type: 3}
+  m_Name: UpgradeHandleElect
+  m_EditorClassIdentifier: 
+  goodsSprite: {fileID: -9192169791053977318, guid: de99017f483625c40a98af2c791d7249, type: 3}
+  description: "\uC190\uBC1C\uC804\uAE30\uC758 \uC790\uC11D\uC758 \uC384\uAE30\uB97C
+    \\n\uC99D\uAC00\uC2DC\uD0A8\uB2E4."
+  upgradePrice: 204e0000409c000070110100c0d40100400d0300
+  upgradeCount: 5
